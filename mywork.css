@@ -1,0 +1,118 @@
+.my-work-page,
+.my-work-page * {
+  box-sizing: border-box;
+}
+.my-work-page {
+  background: #d143b2;
+  height: 1024px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.smoochez-co {
+  color: #fffdfd;
+  text-align: left;
+  font-family: "Kalam-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 130px;
+  top: 40px;
+  width: 390px;
+  height: 50px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kalam-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 963px;
+  top: 58px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kalam-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1114px;
+  top: 58px;
+}
+.my-past-work {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kalam-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1252px;
+  top: 58px;
+}
+.my-past-work2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kalam-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 71px);
+  top: 184px;
+  width: 238px;
+  height: 66px;
+}
+._2025-02-24-11-47-44-1 {
+  border-radius: 23px;
+  width: 443px;
+  height: 419px;
+  position: absolute;
+  left: 197px;
+  top: 311px;
+  object-fit: cover;
+  aspect-ratio: 443/419;
+}
+._2025-02-24-12-29-50-1 {
+  width: 89px;
+  height: 96px;
+  position: absolute;
+  left: 21px;
+  top: 24px;
+  object-fit: cover;
+  aspect-ratio: 89/96;
+}
+._2025-02-24-1-00-20-1 {
+  border-radius: 22px;
+  width: 442px;
+  height: 413px;
+  position: absolute;
+  left: 807px;
+  top: 306px;
+  object-fit: cover;
+  aspect-ratio: 442/413;
+}
+.the-pickle-ball-baby-tee-size-small-20 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Kalam-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 200px;
+  top: 797px;
+  width: 400px;
+  height: 95px;
+}
+.the-smokin-maryland-baby-tee-size-medium-20 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Kalam-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 790px;
+  top: 797px;
+  width: 461px;
+  height: 82px;
+}
